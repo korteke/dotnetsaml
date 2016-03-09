@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="saml-sp2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\ComponentPro\\UltimateSaml\ v6\.3\.60129\\Samples\\Saml\\Web\\CS\\Saml2Shibboleth\\ServiceProvider\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\ComponentPro\\UltimateSaml\ v6\.3\.60129\\Samples\\Saml\\Web\\CS\\Saml2Shibboleth\\ServiceProvider\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
